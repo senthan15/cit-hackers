@@ -1,19 +1,28 @@
-# Welcome to MkDocs
-
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 For [Github](https://github.com/nammahari/cit-hackers.git)
 
-## Commands
+- AIDS = [AIDS](aids.md)
+- AIML = [AIML](aiml.md)
+- CSBS = [csbs](csbs.md)
+- CSE = [CSE](cse.md)
+- ECE = [ECE](ece.md)
+- EEE = [EEE](eee.md)
+- IT = [IT](it.md)
+- Mech = [Mech](mech.md)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## For Contact
 
-## Project layout
+- Telegram : [t.me/nammahari](t.me/nammahari)
+- Mail : hari@mahathaan.com / hari@fossuinted ( not active in social , so better to write a mail or ping in tele )
+- Linkedin : [Linkedin](https://linkedin.com/in/nammahari)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## FOSS United & Chennai Chapter
+
+- FOSS United : [FOSS United Web ](fossunited.org)
+- FORUM FOSS United : [ Forum ] (forum.fossunited.org)
+- FOSS United Chennai : ( Tele Group )[t.me/fossunitedchennai) / [ FOSS United Chennai Web ](fossunited.org/c/chennai)
+- [Tamilnadu.tec](tamilnadu.tech) / [Podu.pics](podu.pics)
+
+Best, 
+Hari
